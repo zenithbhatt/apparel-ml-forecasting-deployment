@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+__pycache__/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python files
+*.pyc
+*.pyo
+
+# Logs and outputs
+*.log
+*.csv
+*.xlsx
+
+# Airflow
+airflow.db
+unittests.cfg
+*.pid
+
+# Docker
+*.tar
+*.img
+
+# MLFlow
+mlruns/
