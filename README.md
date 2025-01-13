@@ -11,5 +11,3 @@ This repository contains a comprehensive end-to-end project designed to demonstr
 - **Monitoring**: Real-time metrics visualization with Prometheus and Grafana.
 
 ---
-
-## **Project Structure**
